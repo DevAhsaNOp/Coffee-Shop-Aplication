@@ -1,0 +1,11 @@
+C:\Users\ahnkh\Downloads\Coffee Shop C#\CoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe.config
+C:\Users\ahnkh\Downloads\Coffee Shop C#\CoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.exe
+C:\Users\ahnkh\Downloads\Coffee Shop C#\CoffeeShop\MyCoffeeProject\bin\Debug\MyCoffeeProject.pdb
+C:\Users\ahnkh\Downloads\Coffee Shop C#\CoffeeShop\MyCoffeeProject\obj\Debug\CoffeeShop.csproj.AssemblyReference.cache
+C:\Users\ahnkh\Downloads\Coffee Shop C#\CoffeeShop\MyCoffeeProject\obj\Debug\CoffeeShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahnkh\Downloads\Coffee Shop C#\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.CoffeeShop.resources
+C:\Users\ahnkh\Downloads\Coffee Shop C#\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.Properties.Resources.resources
+C:\Users\ahnkh\Downloads\Coffee Shop C#\CoffeeShop\MyCoffeeProject\obj\Debug\CoffeeShop.csproj.GenerateResource.cache
+C:\Users\ahnkh\Downloads\Coffee Shop C#\CoffeeShop\MyCoffeeProject\obj\Debug\CoffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\ahnkh\Downloads\Coffee Shop C#\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.exe
+C:\Users\ahnkh\Downloads\Coffee Shop C#\CoffeeShop\MyCoffeeProject\obj\Debug\MyCoffeeProject.pdb
